@@ -11,7 +11,7 @@ tags:
 
 A GitHub repository has all of the ingredients for serving as a content management system.
 
-![image](https://user-images.githubusercontent.com/2074485/76781437-1a6ec600-6785-11ea-9849-1613d0d716b6.png)
+<p><img src="https://paulkoanui.github.io/github-cms-docs/assets/github-cms-diagram.svg"></p>
 
 
 In the scope of this project:
