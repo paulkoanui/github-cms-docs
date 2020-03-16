@@ -23,4 +23,4 @@ In the scope of this project:
 - **Publication states** are managed through a GitHub Project that acts as a state machine.
 - **Publication actions** are defined with JavaScript in Node.js and executed by GitHub Actions. 
 
-[**See to "Docs" to learn more.**](/docs/)
+[**See to "Docs" to learn more.**](https://paulkoanui.github.io/github-cms-docs/docs/)
